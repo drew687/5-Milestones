@@ -1,39 +1,43 @@
-.title{
-  text-align:center;
-  background-color:#FFE2A8;
-  font-family:Courier New, serif;
-  text-decoration:underline;
-  font-size:300%;
-  text-transform:uppercase;
-  color:#8C1C1C;
+.title {
+  text-align: center;
+  background-color: #FFE2A8;
+  font-family: Courier New, serif;
+  text-decoration: underline;
+  font-size: 300%;
+  text-transform: uppercase;
+  color: #8C1C1C;
   line-height: 100px;
-  text-shadow:3px 3px #111111;
+  text-shadow: 3px 3px #111111;
 }
-h2{
+
+h2 {
   text-align: center;
   font-family: Lucida Sans Typewriter, serif;
-  font-size:200%;
-  color:#8A3030;
-  background-color:#F9CC75 ;
-  text-shadow:2px 2px #111111;
+  font-size: 200%;
+  color: #8A3030;
+  background-color: #F9CC75;
+  text-shadow: 2px 2px #111111;
 }
-*{
+
+* {
   background-color: #FFE2A8;
 }
-p{
-  text-indent:30px;
-  text-align: center;
-  font-size:125%;
-  font-family:Goudy Old Style, sans-serif;
-  font-weight: bold;
-  background-color:#F7C669;
 
+p {
+  text-indent: 30px;
+  text-align: center;
+  font-size: 125%;
+  font-family: Goudy Old Style, sans-serif;
+  font-weight: bold;
+  background-color: #F7C669;
 }
-#paragraph-1{
-  color:black;
-  background-color:#F7C669;
+
+#paragraph-1 {
+  color: black;
+  background-color: #F7C669;
 }
-a{
-  background-color:#F7C669;
-  color:#8C1C1C;
+
+a {
+  background-color: #F7C669;
+  color: #8C1C1C;
 }
