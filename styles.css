@@ -17,6 +17,7 @@ h2 {
   color: #8A3030;
   background-color: #F9CC75;
   text-shadow: 2px 2px #111111;
+  padding:20px;
 }
 
 * {
@@ -30,11 +31,13 @@ p {
   font-family: Goudy Old Style, sans-serif;
   font-weight: bold;
   background-color: #F7C669;
+  padding:50px;
 }
 
 #paragraph-1 {
   color: black;
   background-color: #F7C669;
+  padding:50px;
 }
 
 a {
